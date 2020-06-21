@@ -1,16 +1,3 @@
-# inovola_task
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1592763933](https://user-images.githubusercontent.com/49023331/85232479-5e660c80-b3ff-11ea-852d-746b79901349.png)
+![Screenshot_1592764697](https://user-images.githubusercontent.com/49023331/85232481-64f48400-b3ff-11ea-9c2d-7778a7e594b7.png)
+![Screenshot_1592763961](https://user-images.githubusercontent.com/49023331/85232482-68880b00-b3ff-11ea-8c16-24464c2429eb.png)
